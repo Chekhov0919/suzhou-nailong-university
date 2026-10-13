@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chekhov0919.github.io/sitemap.xml
+Sitemap: https://chekhov0919.github.io/suzhou-nailong-university/sitemap.xml

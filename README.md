@@ -6,7 +6,7 @@
 
 **本站为个人趣味作品,与苏州大学没有任何隶属或合作关系。**
 
-🔗 在线访问:<https://chekhov0919.github.io/>
+🔗 在线访问:<https://chekhov0919.github.io/suzhou-nailong-university/>
 
 ![首页预览](assets/nailong.png)
 
