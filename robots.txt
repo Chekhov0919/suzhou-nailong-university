@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# 部署后把下面的地址换成你自己的域名
-Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPO/sitemap.xml
+Sitemap: https://chekhov0919.github.io/sitemap.xml
